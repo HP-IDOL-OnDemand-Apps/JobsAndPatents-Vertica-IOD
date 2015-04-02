@@ -1,0 +1,16 @@
+{
+    "db-info":{
+        "vertica_driver":"HPVertica",
+        "server-ip":"172.16.72.128",
+        "db_name":"mydb",
+	    "username": "dbadmin",
+        "port": 5433
+    },
+    "api-baseurls":{
+        "query-text":"https://api.idolondemand.com/1/api/sync/querytextindex/v1",
+        "entity-extraction": "https://api.idolondemand.com/1/api/sync/extractentities/v1",
+        "text-extraction":""
+    },
+    "apikey":"myapikey"
+
+}
